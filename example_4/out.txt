@@ -1,0 +1,2 @@
+Writing to original fd
+Writing to duplicated fd
